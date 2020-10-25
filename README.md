@@ -28,3 +28,7 @@ kp0kHZOJrwEzaQHu
 mongodb+srv://budget:kp0kHZOJrwEzaQHu@cluster0.0hiqu.mongodb.net/budget?retryWrites=true&w=majority
 
 mongodb+srv://<username>:<password>@cluster0.0hiqu.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+e6YoAAWsLBe7YW1f
+budget
+mongodb+srv://budget:e6YoAAWsLBe7YW1f@cluster0.0hiqu.mongodb.net/budget?retryWrites=true&w=majority
